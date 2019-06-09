@@ -1,0 +1,3 @@
+[16-Jul-2018 09:43:22 America/Chicago] PHP Fatal error:  Call to a member function model() on null in /home1/arielbau/public_html/banner-19/application/controllers/Main_controller.php on line 9
+[17-Jul-2018 05:37:53 America/Chicago] PHP Fatal error:  Call to undefined function iseet() in /home1/arielbau/public_html/banner-19/application/controllers/admin/User.php on line 34
+[17-Jul-2018 05:38:33 America/Chicago] PHP Fatal error:  Call to undefined function iseet() in /home1/arielbau/public_html/banner-19/application/controllers/admin/User.php on line 35

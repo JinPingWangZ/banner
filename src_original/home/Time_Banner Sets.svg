@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="156px" viewBox="0 0 174 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>bg_time_comparision-06</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="31.16%" y1="113.097561%" x2="68.83%" y2="-13.097561%" id="linearGradient-1">
+            <stop stop-color="#526EDE" offset="0%"></stop>
+            <stop stop-color="#627BE0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.8571429%" y1="88.2857143%" x2="82.1428571%" y2="11.7142857%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#627BE0" offset="0%"></stop>
+            <stop stop-color="#526EDE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="4567%" y1="11900%" x2="4567%" y2="14500%" id="linearGradient-4">
+            <stop stop-color="#627BE0" offset="0%"></stop>
+            <stop stop-color="#526EDE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8517%" y1="21900%" x2="8517%" y2="15200%" id="linearGradient-5">
+            <stop stop-color="#526EDE" offset="0%"></stop>
+            <stop stop-color="#627BE0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7145%" y1="18883%" x2="7788%" y2="18117%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="9510%" y1="18600%" x2="9510%" y2="21900%" id="linearGradient-7">
+            <stop stop-color="#627BE0" offset="0%"></stop>
+            <stop stop-color="#526EDE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7036%" y1="20100%" x2="7036%" y2="21900%" id="linearGradient-8">
+            <stop stop-color="#627BE0" offset="0%"></stop>
+            <stop stop-color="#526EDE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14667%" y1="21900%" x2="14667%" y2="6300%" id="linearGradient-9">
+            <stop stop-color="#526EDE" offset="0%"></stop>
+            <stop stop-color="#627BE0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="13745%" y1="17483%" x2="14388%" y2="16717%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="15310%" y1="17100%" x2="15310%" y2="21900%" id="linearGradient-11">
+            <stop stop-color="#627BE0" offset="0%"></stop>
+            <stop stop-color="#526EDE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14217%" y1="19200%" x2="14217%" y2="21900%" id="linearGradient-12">
+            <stop stop-color="#627BE0" offset="0%"></stop>
+            <stop stop-color="#526EDE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Banner-Generator---LP" transform="translate(-957.000000, -1432.000000)" fill-rule="nonzero">
+            <g id="bg_time_comparision-06" transform="translate(957.000000, 1432.000000)">
+                <g id="Group" opacity="0.4" transform="translate(1.000000, 0.000000)" fill="url(#linearGradient-1)">
+                    <rect id="Rectangle-path" x="0.67" y="0" width="100" height="82" rx="2"></rect>
+                </g>
+                <circle id="Oval" fill="url(#linearGradient-2)" cx="34.67" cy="33" r="7"></circle>
+                <path d="M76.85,33 L31.67,82 L99.67,82 C100.774569,82 101.67,81.1045695 101.67,80 L101.67,60.75 L76.85,33 Z" id="Shape" fill="url(#linearGradient-3)" opacity="0.8"></path>
+                <path d="M3.67,82 L55.67,82 L23.67,56 L1.67,73.33 L1.67,80 C1.67,81.1045695 2.5654305,82 3.67,82 Z" id="Shape" fill="url(#linearGradient-4)" opacity="0.8"></path>
+                <g id="Group" opacity="0.4" transform="translate(34.000000, 89.000000)" fill="url(#linearGradient-5)">
+                    <rect id="Rectangle-path" x="0.67" y="0" width="67" height="67" rx="2"></rect>
+                </g>
+                <circle id="Oval" fill="url(#linearGradient-6)" cx="57.67" cy="122" r="5"></circle>
+                <path d="M85,123 L54.52,156 L100.32,156 C101.065584,156 101.67,155.395584 101.67,154.65 L101.67,141.65 L85,123 Z" id="Shape" fill="url(#linearGradient-7)" opacity="0.8"></path>
+                <path d="M36.05,156 L72.05,156 L49.9,138 L34.67,150 L34.67,154.62 C34.67,155.382153 35.287847,156 36.05,156 Z" id="Shape" fill="url(#linearGradient-8)" opacity="0.8"></path>
+                <g id="Group" opacity="0.4" transform="translate(108.000000, 0.000000)" fill="url(#linearGradient-9)">
+                    <rect id="Rectangle-path" x="0.67" y="0" width="42" height="156" rx="2"></rect>
+                </g>
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="123.67" cy="108" r="5"></circle>
+                <path d="M150.67,112.41 L148,108 L121.57,156 L148.71,156 C149.814569,156 150.71,155.104569 150.71,154 L150.71,112.41 L150.67,112.41 Z" id="Shape" fill="url(#linearGradient-11)" opacity="0.8"></path>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="81.67" y="9" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="81.67" y="17" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="81.67" y="25" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="81.67" y="33" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="81.67" y="41" width="23" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="127.67" y="58" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="127.67" y="66" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="127.67" y="74" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="127.67" y="82" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="127.67" y="90" width="23" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="0.67" y="99" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="0.67" y="107" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="0.67" y="115" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="0.67" y="123" width="46" height="3"></rect>
+                <rect id="Rectangle-path" fill="#152365" opacity="0.7" x="0.67" y="131" width="23" height="3"></rect>
+                <path d="M110.67,156 L141.67,156 L121.17,129 L108.67,145.46 L108.67,154 C108.67,155.104569 109.565431,156 110.67,156 Z" id="Shape" fill="url(#linearGradient-12)" opacity="0.8"></path>
+            </g>
+        </g>
+    </g>
+</svg>
